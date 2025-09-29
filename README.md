@@ -1,8 +1,8 @@
-# Hi, I'm Hessa A. Alawwad 👋  
+# Hi, I'm Hessa A. Alawwad   
 
-👩‍🏫 **Assistant Professor of Computer Science**  
-🎓 **PhD in Computer Science (AI — NLP — CV)**  
+👩‍🏫 **Assistant Professor of Computer Science & Researcher | PhD in Computer Science (AI — NLP — CV)**  
 📍 Riyadh, Saudi Arabia  
+👋 Open for research collaborations
 
 I am both an academic and an active researcher, passionate about advancing **Artificial Intelligence** through **multimodal understanding, Natural Language Processing (NLP), and Large Language Models (LLMs)**.  
 As an **Assistant Professor**, I lead projects, mentor students, and contribute to academic service.  
