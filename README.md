@@ -1,4 +1,4 @@
-# Hi, I'm Hessa 👋  
+# Hi, I'm Hessa A. Alawwad 👋  
 
 👩‍🏫 **Assistant Professor of Computer Science**  
 🎓 **PhD in Computer Science (AI — NLP — CV)**  
